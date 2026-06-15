@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đăng nhập thành công vào trang khách hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc78560c-bfaa-4c6d-bf90-b551ba1e6210</testCaseGuid>
+</TestCaseEntity>

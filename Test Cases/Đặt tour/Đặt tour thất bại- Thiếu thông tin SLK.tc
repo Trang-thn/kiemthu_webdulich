@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đặt tour thất bại- Thiếu thông tin SLK</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>650cbe93-1110-4469-a797-dec5f2737f30</testCaseGuid>
+</TestCaseEntity>

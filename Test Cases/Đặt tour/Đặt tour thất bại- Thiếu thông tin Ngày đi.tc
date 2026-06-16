@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đặt tour thất bại- Thiếu thông tin Ngày đi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ceadf3d-a7bb-48e2-92e0-d6f81791d09b</testCaseGuid>
+</TestCaseEntity>

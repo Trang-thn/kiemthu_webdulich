@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đặt tour thất bại- Số lượng khách không hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b788c382-6a90-4e69-806e-23b1a00c44be</testCaseGuid>
+</TestCaseEntity>

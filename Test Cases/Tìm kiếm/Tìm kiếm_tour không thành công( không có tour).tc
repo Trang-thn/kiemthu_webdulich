@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tìm kiếm_tour không thành công( không có tour)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1642deb3-0dac-4995-8ed1-8680fc723ec3</testCaseGuid>
+</TestCaseEntity>

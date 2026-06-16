@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đăng nhập không thành công(sai pass)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>501025c3-31b9-498a-b918-9c8cdeaa32e6</testCaseGuid>
+</TestCaseEntity>

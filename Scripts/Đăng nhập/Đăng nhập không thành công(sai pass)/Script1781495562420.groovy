@@ -21,11 +21,13 @@ WebUI.openBrowser('http://localhost/webdulich/')
 
 WebUI.click(findTestObject('Đăng nhập/btn_dangnhap1'))
 
-WebUI.setText(findTestObject('Đăng nhập/txt_username'), 'thntrang')
+WebUI.setText(findTestObject('Đăng nhập/txt_username'), 'trangthn')
 
-WebUI.setText(findTestObject('Đăng nhập/txt_password'), 'trangnguyenthn]')
+WebUI.setText(findTestObject('Đăng nhập/txt_password'), '0987654321')
 
 WebUI.click(findTestObject('Đăng nhập/btn_dangnhap2'))
 
-WebUI.verifyElementPresent(findTestObject('Đăng nhập/tit_khachhang'), 0)
+WebUI.verifyElementVisible(findTestObject('Đăng nhập/tit_thatbai'))
+
+WebUI.closeBrowser()
 

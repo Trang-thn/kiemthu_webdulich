@@ -21,11 +21,17 @@ WebUI.openBrowser('http://localhost/webdulich/')
 
 WebUI.click(findTestObject('Đăng nhập/btn_dangnhap1'))
 
-WebUI.setText(findTestObject('Đăng nhập/txt_username'), 'thntrang')
+WebUI.setText(findTestObject('Đăng nhập/txt_username'), '')
 
-WebUI.setText(findTestObject('Đăng nhập/txt_password'), 'trangnguyenthn]')
+WebUI.setText(findTestObject('Đăng nhập/txt_password'), '')
 
 WebUI.click(findTestObject('Đăng nhập/btn_dangnhap2'))
 
-WebUI.verifyElementPresent(findTestObject('Đăng nhập/tit_khachhang'), 0)
+WebUI.getAttribute(findTestObject('Đăng nhập/txt_username'), 'required')
+
+WebUI.getAttribute(findTestObject('Đăng nhập/txt_password'), 'required')
+
+WebUI.verifyMatch(WebUI.getUrl(), 'http://localhost/webdulich/user/login', false)
+
+WebUI.closeBrowser()
 

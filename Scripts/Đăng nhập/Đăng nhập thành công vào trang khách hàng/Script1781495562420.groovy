@@ -27,5 +27,5 @@ WebUI.setText(findTestObject('Đăng nhập/txt_password'), 'trangnguyenthn]')
 
 WebUI.click(findTestObject('Đăng nhập/btn_dangnhap2'))
 
-WebUI.verifyElementPresent(findTestObject('Đăng nhập/tit_khách hàng'), 0)
+WebUI.verifyElementPresent(findTestObject('Đăng nhập/tit_khachhang'), 0)
 

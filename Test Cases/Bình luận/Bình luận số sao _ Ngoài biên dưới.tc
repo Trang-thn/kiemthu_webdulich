@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Bình luận vượt quá kí tự</name>
+   <name>Bình luận số sao _ Ngoài biên dưới</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b01cc4df-5468-439a-82bd-9246eacc1992</testCaseGuid>
+   <testCaseGuid>4049d7e6-4683-4660-85ec-d3e72a333f89</testCaseGuid>
 </TestCaseEntity>

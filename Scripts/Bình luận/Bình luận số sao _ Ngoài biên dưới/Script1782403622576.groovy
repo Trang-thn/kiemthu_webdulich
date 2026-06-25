@@ -17,15 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://localhost/webdulich/')
+WebUI.callTestCase(findTestCase('Đăng nhập/Đăng nhập thành công vào trang khách hàng'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Đăng nhập/btn_dangnhap1'))
+WebUI.click(findTestObject('Bình luận/btn_chitiet'))
 
-WebUI.setText(findTestObject('Đăng nhập/txt_username'), 'linhxinhgai')
+WebUI.setText(findTestObject('Bình luận/txt_noidungcom'), 'trời nắng đẹp, nhưng không khi ô nhiêm ')
 
-WebUI.setText(findTestObject('Đăng nhập/txt_password'), 'linhxinhgai@')
+WebUI.selectOptionByValue(findTestObject('Bình luận/ddl_danhgia'), '0', false)
 
-WebUI.click(findTestObject('Đăng nhập/btn_dangnhap2'))
+WebUI.click(findTestObject('Bình luận/btn_binhluan'))
 
-WebUI.verifyElementPresent(findTestObject('Đăng nhập/tit_khachhang'), 0)
+WebUI.verifyElementVisible(findTestObject('Bình luận/tit_binhluandagui'))
 

@@ -6,16 +6,12 @@
    <UUID>9f2c6d4a-c24d-4bf1-98f0-77bda384b3da</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.4.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>11.2.0</modifiedVersion>
+   <modifiedVersion>10.4.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< HEAD
    <projectFileLocation>C:\Users\Admin\Katalon Studio\kiemthu_webdulich\webdulich.prj</projectFileLocation>
-=======
-   <projectFileLocation>D:\Test katalon\kiemthu_webdulich4\webdulich.prj</projectFileLocation>
->>>>>>> branch 'master' of https://github.com/Trang-thn/kiemthu_webdulich
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

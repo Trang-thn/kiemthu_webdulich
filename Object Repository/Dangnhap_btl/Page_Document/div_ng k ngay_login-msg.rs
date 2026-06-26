@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng k ngay_login-msg</name>
+   <tag></tag>
+   <elementGuidId>bca55114-09a1-484d-89ca-a5aa745890fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#login-msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a2b4332-e5da-4a9e-b8d4-a97c6ff378b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login-msg</value>
+      <webElementGuid>0ec92b0b-426a-44ec-817d-28e1f8dd9d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sai tài khoản hoặc mật khẩu</value>
+      <webElementGuid>27c67a6b-80e5-40af-8e2e-11713cea71de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-msg&quot;)</value>
+      <webElementGuid>e1c7fd3f-8a61-4575-85de-f3879e248249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='login-msg']</value>
+      <webElementGuid>919307c9-fb56-4ca3-853b-d7420cc7354a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng kí ngay'])[1]/following::div[1]</value>
+      <webElementGuid>d860a7d0-df9a-464a-a2ec-31c41ab8bb68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[3]/following::div[1]</value>
+      <webElementGuid>521cea82-e593-42c2-ba48-91e8a8cbfbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sai tài khoản hoặc mật khẩu']/parent::*</value>
+      <webElementGuid>4616b4fb-4315-402b-b9a5-f93b9d6d2427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>4289bea5-cd60-4067-8f04-f5c18d8568cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'login-msg' and (text() = 'Sai tài khoản hoặc mật khẩu' or . = 'Sai tài khoản hoặc mật khẩu')]</value>
+      <webElementGuid>b4e98289-5a71-4a2f-84c3-f3eebc144b05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

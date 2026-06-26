@@ -6,12 +6,12 @@
    <elementGuidId>e5ff1074-102b-4663-8570-49f7a2196ccf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Đăng nhập')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Đăng nhập')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>259f1227-3970-442e-a60a-2422c70c5ef0</webElementGuid>
+      <webElementGuid>84ba8717-88a2-4855-8e08-868d16546110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/webdulich/user/login</value>
-      <webElementGuid>abbaf9be-2344-485e-a7a3-e6e1d1a72f64</webElementGuid>
+      <webElementGuid>0c3da11a-4cc9-42cd-9546-5720aab74586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>0bc6f572-becc-42a7-95e0-820878eb09d4</webElementGuid>
+      <webElementGuid>8c8b3844-2032-4d78-9267-92599655b6ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;admin&quot;]/p[1]/a[1]</value>
-      <webElementGuid>5cf4d1fd-1b02-4b3b-ae0e-e98dc6f25bd1</webElementGuid>
+      <webElementGuid>bb2e0730-e64e-4096-bd9f-2de4ab79d956</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>f0febb16-d394-4f8b-a62c-37855ac7ccb0</webElementGuid>
+      <webElementGuid>61816004-7fbc-41dd-a88d-b74492a5a252</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DU LỊCH VIỆT NAM'])[1]/preceding::a[1]</value>
-      <webElementGuid>40fe3dc6-528a-41d3-826a-98abf61d35e3</webElementGuid>
+      <webElementGuid>dfbd66b9-13d9-4378-ae9c-4471dcf8b18e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/preceding::a[1]</value>
-      <webElementGuid>ceb65262-4b8c-4f75-9129-b3e094a9e8c9</webElementGuid>
+      <webElementGuid>ccce5f0e-d9df-4f1a-b1ff-e57792d80adb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>c36947fa-a5b1-4043-9107-d067140dcdb6</webElementGuid>
+      <webElementGuid>c4ea85d6-4b7e-49e6-855f-06bc05ea3376</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/webdulich/user/login')]</value>
-      <webElementGuid>70dcd190-ea8c-4b6d-a9f4-3fd4e9ca3a62</webElementGuid>
+      <webElementGuid>c9b0527a-abc2-43df-bdbd-6c7be1ba6836</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>b4201954-193f-445c-a8ef-aa99c1c2e0f8</webElementGuid>
+      <webElementGuid>acb3df15-2d6a-4267-bcf2-d730f1e74ce9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/webdulich/user/login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>4643a32b-6c75-4b2d-83fc-f4828d285655</webElementGuid>
+      <webElementGuid>44d99c15-8c43-46fa-95de-09ce5c0c0eca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

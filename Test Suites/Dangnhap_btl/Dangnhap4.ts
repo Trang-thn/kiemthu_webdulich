@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>TestSuite_DNTC</name>
+   <description>Đăng nhập không thành công(sai user)</description>
+   <name>Dangnhap4</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>082d8aaa-ebf9-4a8b-9ec2-5c6fa48c1a13</testSuiteGuid>
+   <testSuiteGuid>727aa694-c80e-44f8-ae9c-cbfeffb60323</testSuiteGuid>
    <testCaseLink>
-      <guid>0d840aab-45bf-49f9-89e2-8a78b8f991d5</guid>
+      <guid>73e0af40-03ca-43ae-ab39-2d52cdd8390b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Đăng nhập/record_DNTC</testCaseId>
+      <testCaseId>Test Cases/Dangnhap_btl/Dangnhap4</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>c48ad081-e5d5-4c6f-9201-94a970040af1</id>
+         <id>0d94fc6e-bc7b-4f59-bc11-a275fba174fa</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Dang_Nhap/TestData_DNTC</testDataId>
+         <testDataId>Data Files/Dangnhap_btl/Dangnhap4</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>c48ad081-e5d5-4c6f-9201-94a970040af1</testDataLinkId>
+         <testDataLinkId>0d94fc6e-bc7b-4f59-bc11-a275fba174fa</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>user</value>
-         <variableId>436ae098-6a13-477a-833b-75719e3cc1d4</variableId>
+         <variableId>ecc3e041-51bf-481c-8e99-3c0bb7fccdae</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>c48ad081-e5d5-4c6f-9201-94a970040af1</testDataLinkId>
+         <testDataLinkId>0d94fc6e-bc7b-4f59-bc11-a275fba174fa</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
-         <variableId>914b6891-0298-4500-8bbd-2b8856e9808e</variableId>
+         <variableId>bf1bdd54-112d-4891-926b-0b5e1c84c1d7</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

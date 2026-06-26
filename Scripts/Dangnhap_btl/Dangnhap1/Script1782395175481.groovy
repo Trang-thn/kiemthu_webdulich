@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost/webdulich/')
 
-WebUI.click(findTestObject('Object Repository/DN_record/Page_Document/a'))
+WebUI.click(findTestObject('Object Repository/Dangnhap_btl/Page_Document/a'))
 
-WebUI.setText(findTestObject('Object Repository/DN_record/Page_Document/input_Ti khon_username'), username)
+WebUI.setText(findTestObject('Object Repository/Dangnhap_btl/Page_Document/input_Ti khon_username'), username)
 
-WebUI.setText(findTestObject('Object Repository/DN_record/Page_Document/input_Mt khu_password'), password)
+WebUI.setText(findTestObject('Object Repository/Dangnhap_btl/Page_Document/input_Mt khu_password'), password)
 
-WebUI.click(findTestObject('Object Repository/DN_record/Page_Document/button_submit'))
+WebUI.click(findTestObject('Object Repository/Dangnhap_btl/Page_Document/button_submit'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/DN_record/Page_Admin Dashboard/h1'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Dangnhap_btl/Page_Admin Dashboard/h1'))
 
 WebUI.closeBrowser()
 

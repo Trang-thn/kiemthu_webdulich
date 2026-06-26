@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>TestData_DNTC</name>
+   <name>Dangnhap4</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>faad373d-df7c-42f6-84d7-c5c9b29ea79a</dataFileGUID>
-   <dataSourceUrl>C:\Users\Admin\Downloads\DataTest_DNTC.xlsx</dataSourceUrl>
+   <dataFileGUID>b00f5425-cbc9-4ef8-b386-debd1eef2825</dataFileGUID>
+   <dataSourceUrl>C:\Users\Admin\Katalon Studio\kiemthu_webdulich\Dangnhap.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Trang_tính1</sheetName>
+   <sheetName>dangnhap4</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

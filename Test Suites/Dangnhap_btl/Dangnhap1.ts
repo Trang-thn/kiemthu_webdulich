@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Dangnhap1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>082d8aaa-ebf9-4a8b-9ec2-5c6fa48c1a13</testSuiteGuid>
+   <testCaseLink>
+      <guid>9cdca3f0-395c-4a52-aec3-c1e3f6b7416b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dangnhap_btl/Dangnhap1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7765d4d6-0238-4a1d-a8eb-3708f5c2665f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dangnhap_btl/Dangnhap1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7765d4d6-0238-4a1d-a8eb-3708f5c2665f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>user</value>
+         <variableId>436ae098-6a13-477a-833b-75719e3cc1d4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7765d4d6-0238-4a1d-a8eb-3708f5c2665f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>914b6891-0298-4500-8bbd-2b8856e9808e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

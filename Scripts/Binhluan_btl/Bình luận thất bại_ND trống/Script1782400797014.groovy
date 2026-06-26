@@ -17,15 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://localhost/webdulich/')
+WebUI.openBrowser(null)
 
-WebUI.click(findTestObject('Đăng nhập/btn_dangnhap1'))
+WebUI.navigateToUrl('http://localhost/webdulich/')
 
-WebUI.setText(findTestObject('Đăng nhập/txt_username'), 'linhxinhgai')
+WebUI.click(findTestObject('Binhluan_btl/a_ng nhp'))
 
-WebUI.setText(findTestObject('Đăng nhập/txt_password'), 'linhxinhgai@')
+WebUI.setText(findTestObject('Binhluan_btl/input_username'), Username)
 
-WebUI.click(findTestObject('Đăng nhập/btn_dangnhap2'))
+WebUI.setText(findTestObject('Binhluan_btl/input_password'), Password)
 
-WebUI.verifyElementPresent(findTestObject('Đăng nhập/tit_khachhang'), 0)
+WebUI.click(findTestObject('Binhluan_btl/button_ng nhp'))
+
+WebUI.click(findTestObject('Binhluan_btl/a_Chi tit'))
+
+WebUI.setText(findTestObject('Binhluan_btl/textarea_Ni dung bnh lun'), Content)
+
+WebUI.selectOptionByValue(findTestObject('Binhluan_btl/select_nh gi'), Sosao, false)
+
+WebUI.click(findTestObject('Binhluan_btl/button_Gi bnh lun'))
+
+WebUI.getAttribute(findTestObject('Binhluan_btl/txt_noidungcom'), ExpectedMessage)
 

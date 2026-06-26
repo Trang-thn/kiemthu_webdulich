@@ -17,17 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Đăng nhập/Đăng nhập thành công vào trang khách hàng'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Đặt tour/btn_Dattour1'))
+WebUI.navigateToUrl('http://localhost/webdulich/')
 
-'Nhập số lượng khách\r\n'
-WebUI.setText(findTestObject('Đặt tour/txt_soLuongKhach'), '2')
+WebUI.click(findTestObject('Object Repository/DN_record/Page_Document/a'))
 
-'Chọn ngày khởi hành'
-WebUI.executeJavaScript('document.querySelector(\'input[type=date]\').value=\'\'', [])
+WebUI.setText(findTestObject('Object Repository/DN_record/Page_Document/input_Ti khon_username'), username)
 
-WebUI.sendKeys(findTestObject('Đặt tour/txt_soLuongKhach'), Keys.chord(Keys.TAB))
+WebUI.setText(findTestObject('Object Repository/DN_record/Page_Document/input_Mt khu_password'), password)
 
-WebUI.executeJavaScript('document.querySelector(\'#booking-form\').reportValidity()', [])
+WebUI.click(findTestObject('Object Repository/DN_record/Page_Document/button_submit'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/DN_record/Page_Admin Dashboard/h1'))
+
+WebUI.closeBrowser()
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite_DNTC</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>082d8aaa-ebf9-4a8b-9ec2-5c6fa48c1a13</testSuiteGuid>
+   <testCaseLink>
+      <guid>0d840aab-45bf-49f9-89e2-8a78b8f991d5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Đăng nhập/record_DNTC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c48ad081-e5d5-4c6f-9201-94a970040af1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dang_Nhap/TestData_DNTC</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c48ad081-e5d5-4c6f-9201-94a970040af1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>user</value>
+         <variableId>436ae098-6a13-477a-833b-75719e3cc1d4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c48ad081-e5d5-4c6f-9201-94a970040af1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>914b6891-0298-4500-8bbd-2b8856e9808e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

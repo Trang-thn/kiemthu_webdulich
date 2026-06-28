@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đặt tour thất bại_Số lượng khách không hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7f28294-6e58-44ee-978e-3f269329e5f9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0baaf835-0d02-4b03-8296-65c69102ae0e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a58e0dc-5c74-4d8f-8689-9fd0ca4b5c00</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0baaf835-0d02-4b03-8296-65c69102ae0e</id>
+      <masked>false</masked>
+      <name>So_luong</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a58e0dc-5c74-4d8f-8689-9fd0ca4b5c00</id>
+      <masked>false</masked>
+      <name>Ngay_di</name>
+   </variable>
+</TestCaseEntity>

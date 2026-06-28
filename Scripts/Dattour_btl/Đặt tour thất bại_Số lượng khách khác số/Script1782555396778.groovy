@@ -17,15 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://localhost/webdulich/')
+WebUI.openBrowser(null)
 
-WebUI.click(findTestObject('Đăng nhập/btn_dangnhap1'))
+WebUI.navigateToUrl('http://localhost/webdulich/')
 
-WebUI.setText(findTestObject('Đăng nhập/txt_username'), 'binh')
+WebUI.click(findTestObject('Dattour_btl/Đặt tour thành công/a_ng nhp'))
 
-WebUI.setText(findTestObject('Đăng nhập/txt_password'), 'binh2k5@')
+WebUI.setText(findTestObject('Dattour_btl/Đặt tour thành công/input_username'), 'binh')
 
-WebUI.click(findTestObject('Đăng nhập/btn_dangnhap2'))
+WebUI.setEncryptedText(findTestObject('Dattour_btl/Đặt tour thành công/input_password'), 'xz/JD1ymaP49W6e1/hkyjA==')
 
-WebUI.verifyElementPresent(findTestObject('Đăng nhập/tit_khachhang'), 0)
+WebUI.click(findTestObject('Dattour_btl/Đặt tour thành công/button_ng nhp'))
+
+WebUI.click(findTestObject('Dattour_btl/Đặt tour thành công/a_t tour'))
+
+WebUI.setText(findTestObject('Dattour_btl/Đặt tour thành công/input_soLuongKhach'), So_luong)
+
+WebUI.sendKeys(findTestObject('Dattour_btl/Đặt tour thành công/input_soLuongKhach'), Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Dattour_btl/Đặt tour thành công/input_ngayDi'), Ngay_di)
+
+WebUI.click(findTestObject('Dattour_btl/Đặt tour thành công/button_Xc nhn t tour'))
+
+WebUI.closeBrowser()
 

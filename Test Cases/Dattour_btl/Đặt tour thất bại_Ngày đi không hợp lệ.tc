@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đặt tour thất bại_Ngày đi không hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb361546-e59a-404c-8b76-35828b707d85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a923a75-26c3-4576-aec9-d05fda31fb94</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46a72b85-545b-492f-a2d3-3ea58d3bef3b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a923a75-26c3-4576-aec9-d05fda31fb94</id>
+      <masked>false</masked>
+      <name>So_luong</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46a72b85-545b-492f-a2d3-3ea58d3bef3b</id>
+      <masked>false</masked>
+      <name>Ngay_di</name>
+   </variable>
+</TestCaseEntity>

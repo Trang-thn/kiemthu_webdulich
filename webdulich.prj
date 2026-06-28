@@ -9,9 +9,9 @@
    <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.4.1</modifiedVersion>
+   <modifiedVersion>11.2.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Admin\Katalon Studio\kiemthu_webdulich\webdulich.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\admin\git\kiemthu_webdulich\webdulich.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

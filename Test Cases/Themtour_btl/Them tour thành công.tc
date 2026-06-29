@@ -100,7 +100,7 @@
       <name>Mota</name>
    </variable>
    <variable>
-      <defaultValue>'C:\\Users\\ADMIN\\Downloads\\GENDO_LOHO_3F55.png'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>aa965569-48ab-40a3-84c7-b48a0da4ad30</id>
       <masked>false</masked>

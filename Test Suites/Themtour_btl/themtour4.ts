@@ -23,7 +23,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Themtour4</testDataId>
+         <testDataId>Data Files/Themtour_btl/Themtour4</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -35,7 +35,7 @@
       <variableLink>
          <testDataLinkId>9bb7d132-1107-471c-9808-72bf7935eb66</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>Giá tour</value>
+         <value>Tên tour</value>
          <variableId>7fc0bddb-0ad4-4eeb-9410-8bc8b6e9ac08</variableId>
       </variableLink>
       <variableLink>

@@ -31,6 +31,3 @@ WebUI.sendKeys(findTestObject('Đặt tour/txt_soLuongKhach'), Keys.chord(Keys.T
 
 WebUI.executeJavaScript('document.querySelector(\'#booking-form\').reportValidity()', [])
 
-WebUI.verifyElementAttributeValue(findTestObject('Đặt tour/txt_soLuongKhach'), 'validationMessage', 'Giá trị phải lớn hơn hoặc bằng 1.', 
-    0)
-

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đăng nhập không thành công(để trống các trường)</description>
+   <name>Dangnhap5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a508a9ed-26bd-463b-b98a-50f7384964f1</testCaseGuid>
+   <variable>
+      <defaultValue>null</defaultValue>
+      <description></description>
+      <id>aa923139-344c-4c8b-8514-384a6efebc41</id>
+      <masked>false</masked>
+      <name>msg_username</name>
+   </variable>
+   <variable>
+      <defaultValue>null</defaultValue>
+      <description></description>
+      <id>c6c4fbea-df77-4e12-9c41-550ab952510d</id>
+      <masked>false</masked>
+      <name>msg_password</name>
+   </variable>
+</TestCaseEntity>

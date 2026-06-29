@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đặt tour thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>479b6f4b-ad94-4a20-8337-3456890bcc87</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75780b5b-5e2b-4ef7-8c71-15ec69139d7c</id>
+      <masked>false</masked>
+      <name>So_luong</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af1d3e40-a1a4-4206-b1e5-d0cc57745cdd</id>
+      <masked>false</masked>
+      <name>Ngay_di</name>
+   </variable>
+</TestCaseEntity>

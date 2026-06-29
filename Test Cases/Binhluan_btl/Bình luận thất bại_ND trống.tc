@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bình luận thất bại_ND trống</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e41662f5-ac75-45d8-8137-c8702f3a7890</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>66f12d38-b2ff-4ebe-9b92-0534cc4fb705</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebf690be-9618-437f-9b73-0ea1c2932bd6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f2bd3bc-f480-4d4b-b723-c5bd5e645e00</id>
+      <masked>false</masked>
+      <name>Content</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>afd8d288-3902-43bc-85b8-402863c33503</id>
+      <masked>false</masked>
+      <name>Sosao</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9330f755-99f7-478a-a8b5-e785cc14f694</id>
+      <masked>false</masked>
+      <name>ExpectedMessage</name>
+   </variable>
+</TestCaseEntity>

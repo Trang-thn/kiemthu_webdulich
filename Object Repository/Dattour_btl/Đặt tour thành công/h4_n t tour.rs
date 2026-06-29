@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_n t tour</name>
+   <tag></tag>
+   <elementGuidId>6ee841b6-8c1b-4685-94dc-8a682b086193</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>46073364-d8f1-4eb7-b802-ef2a1aec6a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>🎉 Đơn đặt tour</value>
+      <webElementGuid>1db0d07b-2613-45ae-80cd-3ab85c401a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1da9d7d7979802766bb66a73b3f3d49f</value>
+      <webElementGuid>cd61af39-3c2d-49e4-874e-6d1d61fbe821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>89d06211-cc9b-44af-8236-8db7d7e465d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>ecded2dd-3c72-4917-b820-59c28f530566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '🎉 Đơn đặt tour' or . = '🎉 Đơn đặt tour')]</value>
+      <webElementGuid>a94fc651-7a61-47ac-bfc9-a8c5df529065</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

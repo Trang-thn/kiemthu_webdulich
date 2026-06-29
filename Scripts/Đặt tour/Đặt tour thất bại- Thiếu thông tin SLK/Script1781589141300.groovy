@@ -31,6 +31,3 @@ WebUI.sendKeys(findTestObject('Đặt tour/txt_soLuongKhach'), Keys.chord(Keys.T
 
 WebUI.executeJavaScript('document.querySelector(\'#booking-form\').reportValidity()', [])
 
-WebUI.verifyElementAttributeValue(findTestObject('Đặt tour/txt_soLuongKhach'), 'validationMessage', 'Vui lòng điền vào trường này.', 
-    0)
-

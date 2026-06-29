@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thatbai-khi nkh là hqua</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99e61f08-0fc9-4b4f-acdb-b5af891ca1d8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>96c74cea-1d64-43c1-8b72-4fc998ec715d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Themtour_btl/themtour8</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>96c74cea-1d64-43c1-8b72-4fc998ec715d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Tên tour</value>
+      <variableId>e4de941e-5bdc-4aab-ac2b-9573e2977d4d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96c74cea-1d64-43c1-8b72-4fc998ec715d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Giá tour</value>
+      <variableId>146ccb53-2ab2-4167-a637-87372bae7132</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96c74cea-1d64-43c1-8b72-4fc998ec715d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Thời gian tour</value>
+      <variableId>a05257fd-1ee2-4421-8c2d-6b4ba89d3cce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96c74cea-1d64-43c1-8b72-4fc998ec715d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Điểm khởi hành</value>
+      <variableId>e092450e-3f45-49ae-9bf3-78f95ef904a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96c74cea-1d64-43c1-8b72-4fc998ec715d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Ngày khởi hành</value>
+      <variableId>a500b850-020f-4481-a454-88dfce1ae62c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96c74cea-1d64-43c1-8b72-4fc998ec715d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Mô tả</value>
+      <variableId>13511eb5-a8bf-466a-96a7-9fabaad529c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>96c74cea-1d64-43c1-8b72-4fc998ec715d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Ảnh tour</value>
+      <variableId>8f711764-d089-4272-b2f5-2f0ac1664e52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4de941e-5bdc-4aab-ac2b-9573e2977d4d</id>
+      <masked>false</masked>
+      <name>Tentour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>146ccb53-2ab2-4167-a637-87372bae7132</id>
+      <masked>false</masked>
+      <name>Giatour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a05257fd-1ee2-4421-8c2d-6b4ba89d3cce</id>
+      <masked>false</masked>
+      <name>TGtour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e092450e-3f45-49ae-9bf3-78f95ef904a6</id>
+      <masked>false</masked>
+      <name>Dkhanh</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a500b850-020f-4481-a454-88dfce1ae62c</id>
+      <masked>false</masked>
+      <name>Nkhanh</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13511eb5-a8bf-466a-96a7-9fabaad529c4</id>
+      <masked>false</masked>
+      <name>mota</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\ADMIN\\Downloads\\GENDO_LOHO_3F55.png'</defaultValue>
+      <description></description>
+      <id>8f711764-d089-4272-b2f5-2f0ac1664e52</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

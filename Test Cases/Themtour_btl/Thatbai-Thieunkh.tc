@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thatbai-Thieunkh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b66bb336-e5f2-41b9-a6e6-31fc76884c2f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5e1a3275-1d0f-4559-be52-a775525f66af</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Themtour_btl/Themtour6</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5e1a3275-1d0f-4559-be52-a775525f66af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Tên tour</value>
+      <variableId>9d2c0ab9-f66e-4fd8-860c-70529a06d5c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5e1a3275-1d0f-4559-be52-a775525f66af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Giá tour</value>
+      <variableId>0e6adf7d-70cd-4b17-9a07-df368e68fd0d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5e1a3275-1d0f-4559-be52-a775525f66af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Thời gian tour</value>
+      <variableId>23cc36ad-692d-4034-9174-d2ea96dfdfcb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5e1a3275-1d0f-4559-be52-a775525f66af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Điểm khởi hành</value>
+      <variableId>9084408c-7f8a-4ce8-927a-afd3d6fb5cbd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5e1a3275-1d0f-4559-be52-a775525f66af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Ngày khởi hành</value>
+      <variableId>4005198e-e824-4ef2-b03b-ba47e489272b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5e1a3275-1d0f-4559-be52-a775525f66af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Mô tả</value>
+      <variableId>1cdcb8fd-b2ca-48c1-a264-2386c566f1a4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5e1a3275-1d0f-4559-be52-a775525f66af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Ảnh tour</value>
+      <variableId>f0483603-8702-4dc9-9362-74326820b20d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d2c0ab9-f66e-4fd8-860c-70529a06d5c5</id>
+      <masked>false</masked>
+      <name>Tentour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e6adf7d-70cd-4b17-9a07-df368e68fd0d</id>
+      <masked>false</masked>
+      <name>Giatour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23cc36ad-692d-4034-9174-d2ea96dfdfcb</id>
+      <masked>false</masked>
+      <name>TGtour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9084408c-7f8a-4ce8-927a-afd3d6fb5cbd</id>
+      <masked>false</masked>
+      <name>Dkhanh</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4005198e-e824-4ef2-b03b-ba47e489272b</id>
+      <masked>false</masked>
+      <name>Nkhanh</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1cdcb8fd-b2ca-48c1-a264-2386c566f1a4</id>
+      <masked>false</masked>
+      <name>mota</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\ADMIN\\Downloads\\GENDO_LOHO_3F55.png'</defaultValue>
+      <description></description>
+      <id>f0483603-8702-4dc9-9362-74326820b20d</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

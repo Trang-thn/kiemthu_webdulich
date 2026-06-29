@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_nh gi</name>
+   <tag></tag>
+   <elementGuidId>d87a3f33-eb32-4204-8933-6f0e0c786a25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'vote']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'vote' and @id = 'vote' and (text() = '
+                    ⭐⭐⭐⭐⭐
+                    ⭐⭐⭐⭐
+                    ⭐⭐⭐
+                    ⭐⭐
+                    ⭐
+                ' or . = '
+                    ⭐⭐⭐⭐⭐
+                    ⭐⭐⭐⭐
+                    ⭐⭐⭐
+                    ⭐⭐
+                    ⭐
+                ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vote</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Đánh giá&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>180e2117-7977-4c21-be2d-7db044fda1bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>vote</value>
+      <webElementGuid>7f65e778-b53b-4a80-aa0f-53409efe4876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vote</value>
+      <webElementGuid>3a10b9d5-8ec7-4786-b13f-aa64e450975e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    ⭐⭐⭐⭐⭐
+                    ⭐⭐⭐⭐
+                    ⭐⭐⭐
+                    ⭐⭐
+                    ⭐
+                </value>
+      <webElementGuid>07af4ebc-41e1-4ad9-88c8-de6b0b59e81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7fd39a99c1aeef9d17108e7b7ae3c783</value>
+      <webElementGuid>83cbb2f4-655e-49f6-a6f9-395b201a9994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'vote']</value>
+      <webElementGuid>633d4a20-9f3f-4cf8-a7a4-6db30806dc95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'vote']</value>
+      <webElementGuid>a9d6bcaa-7d19-4dd1-a341-68617f931f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'vote' and @id = 'vote' and (text() = '
+                    ⭐⭐⭐⭐⭐
+                    ⭐⭐⭐⭐
+                    ⭐⭐⭐
+                    ⭐⭐
+                    ⭐
+                ' or . = '
+                    ⭐⭐⭐⭐⭐
+                    ⭐⭐⭐⭐
+                    ⭐⭐⭐
+                    ⭐⭐
+                    ⭐
+                ')]</value>
+      <webElementGuid>a7260185-5fd0-4d6b-acc5-bd3c694f8407</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

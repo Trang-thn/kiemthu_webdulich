@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Đặt tour/btn_Dattour1'))
 WebUI.setText(findTestObject('Đặt tour/txt_soLuongKhach'), '5')
 
 'Chọn ngày khởi hành'
-WebUI.executeJavaScript('document.querySelector(\'input[type=date]\').value=\'2026-07-01\'', [])
+WebUI.executeJavaScript('document.querySelector(\'input[type=date]\').value=\'2026-08-01\'', [])
 
 WebUI.click(findTestObject('Đặt tour/btn_Dattour'))
 

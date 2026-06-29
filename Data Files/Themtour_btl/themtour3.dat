@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>ab62133f-6b93-4996-a34a-94379b6d35e3</dataFileGUID>
-   <dataSourceUrl>C:\Users\ADMIN\Downloads\testcarethemtour.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\Admin\Katalon Studio\kiemthu_webdulich\testcarethemtour.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

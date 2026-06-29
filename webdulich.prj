@@ -6,12 +6,12 @@
    <UUID>9f2c6d4a-c24d-4bf1-98f0-77bda384b3da</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.4.1</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>11.2.0</modifiedVersion>
+   <modifiedVersion>11.2.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\admin\git\kiemthu_webdulich\webdulich.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\ADMIN\kiemthu_webdulich\webdulich.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

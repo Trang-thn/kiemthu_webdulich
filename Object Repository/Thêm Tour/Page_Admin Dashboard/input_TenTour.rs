@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_TenTour</name>
+   <tag></tag>
+   <elementGuidId>153f6d3d-10dc-417e-a208-8bd4382c4a58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'TenTour']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'TenTour']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;TenTour&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[name=&quot;TenTour&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>aa1f8bd0-2bd0-43bd-991a-ef7d8ac67a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3e6f0364-5d65-4b94-8064-fca2f84fc56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>TenTour</value>
+      <webElementGuid>56998477-64ae-4e76-8d96-d2737eadc878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>d542a79b-d44a-46fd-afb7-200fd4e03609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dd71ce05913d5d266e16f9694c1db7f3</value>
+      <webElementGuid>b762af55-04f4-4da0-a9d4-836eadb6add9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'TenTour']</value>
+      <webElementGuid>80467d31-7b51-4922-b6b5-2d02220bc5ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'TenTour']</value>
+      <webElementGuid>760a0b16-df91-4014-a183-ba6cbc92ccfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'TenTour']</value>
+      <webElementGuid>8d1cd77a-a362-4e0d-a6f1-165c058d5529</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

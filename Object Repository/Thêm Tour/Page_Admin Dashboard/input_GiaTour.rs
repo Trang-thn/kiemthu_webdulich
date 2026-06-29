@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_GiaTour</name>
+   <tag></tag>
+   <elementGuidId>8e2f63ca-fb0a-4e7a-8edc-e73a3930b8b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'number' and @name = 'GiaTour']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'GiaTour']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;GiaTour&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=spinbutton</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>da9ff1ec-4d66-4d9b-9c16-85609325efbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>187fc226-406f-4cfc-90a7-d74709b4ad36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>GiaTour</value>
+      <webElementGuid>68ac46d5-bf58-4969-bc24-8f528edb41a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c7849fc4-c45c-47bc-be7e-a01903f35b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4835d1156a70bc555246e6e1a1ef19f7</value>
+      <webElementGuid>ad8f3b0f-871a-4bee-bc2d-2cfa4e56318c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'GiaTour']</value>
+      <webElementGuid>63b46ccb-745e-4033-b7d8-b6fe00c58770</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'GiaTour']</value>
+      <webElementGuid>74d5f961-5928-4ec1-9501-cef589da8b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @name = 'GiaTour']</value>
+      <webElementGuid>1af09e99-c7de-4598-8cfa-ac433d5bc7d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

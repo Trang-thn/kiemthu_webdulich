@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_NgayKhoiHanh</name>
+   <tag></tag>
+   <elementGuidId>d046481d-743d-46a5-8730-06c2c9ca8c07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'date' and @name = 'NgayKhoiHanh']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'NgayKhoiHanh']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;NgayKhoiHanh&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[name=&quot;NgayKhoiHanh&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7405c443-989a-471e-b47e-5fc0cc4b8498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>45985199-69b1-48c3-8187-1d4638ca9bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>NgayKhoiHanh</value>
+      <webElementGuid>9fcc3f4e-fb39-4d30-805e-e13c37a50e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>8e721464-ff98-4806-9a41-97c2d9e3b325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>{{ date('Y-m-d') }}</value>
+      <webElementGuid>ab6730cc-3f59-4c1f-8dfe-62cae70bd437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-907472bac88735e43d2da9d209a4a730</value>
+      <webElementGuid>84fc61f5-2c8b-403e-9e96-cd79c4228e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'NgayKhoiHanh']</value>
+      <webElementGuid>66fac818-f3c2-49b9-b145-e48ab2101506</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'NgayKhoiHanh']</value>
+      <webElementGuid>8d49c7fe-7bcc-4b33-be64-61018c0b81d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'date' and @name = 'NgayKhoiHanh']</value>
+      <webElementGuid>992d5242-090a-48e8-9152-b8f0474bb08f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_TGTour</name>
+   <tag></tag>
+   <elementGuidId>967bd7ea-2602-4715-80f0-fac24ea31293</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'TGTour']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'TGTour']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;TGTour&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[name=&quot;TGTour&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cb43d3e6-ba90-4461-ba97-e2561b892ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>31d5d848-0f70-4d8c-a98f-aef10f937471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>TGTour</value>
+      <webElementGuid>3fdc21d1-3238-408c-b5bc-99c051113e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>fc0ad971-1e6c-488a-ac9c-7b248fec79ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ed74fe56fd3f9cd209ba44afda30890e</value>
+      <webElementGuid>acf73040-2bb2-4c82-bb63-918ccbaf3b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'TGTour']</value>
+      <webElementGuid>489004a7-f5b9-4aa9-814a-bd8159fec79d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'TGTour']</value>
+      <webElementGuid>4bae25f9-d60a-4b64-ab11-a166f2759bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'TGTour']</value>
+      <webElementGuid>5ee206ca-f08f-4a3c-8d0d-fd47c9bc72f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

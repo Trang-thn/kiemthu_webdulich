@@ -1,0 +1,38 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import org.openqa.selenium.Keys as Keys
+import internal.GlobalVariable as GlobalVariable
+
+WebUI.callTestCase(findTestCase('Đăng nhập/Đăng nhập thành công vào trang admin'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Thêm Tour/Page_Admin Dashboard/a_Qun l Tour'))
+
+WebUI.click(findTestObject('Thêm Tour/Page_Admin Dashboard/a_Thm mi'))
+
+WebUI.setText(findTestObject('Thêm Tour/Page_Admin Dashboard/input_TenTour'), Tentour)
+
+WebUI.setText(findTestObject('Thêm Tour/Page_Admin Dashboard/input_GiaTour'), Giatour)
+
+WebUI.setText(findTestObject('Thêm Tour/Page_Admin Dashboard/input_TGTour'), TGtour)
+
+WebUI.setText(findTestObject('Thêm Tour/Page_Admin Dashboard/input_DiemKhoiHanh'), Dkhanh)
+
+WebUI.setText(findTestObject('Thêm Tour/Page_Admin Dashboard/input_NgayKhoiHanh'), Nkhanh)
+
+WebUI.setText(findTestObject('Thêm Tour/Page_Admin Dashboard/input_AnhTour'), file)
+
+WebUI.click(findTestObject('Thêm Tour/Page_Admin Dashboard/button_ng tour'))
+

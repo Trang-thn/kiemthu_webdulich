@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_DiemKhoiHanh</name>
+   <tag></tag>
+   <elementGuidId>5a532b27-ce8d-40ff-a1ea-e20ec9d78251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'DiemKhoiHanh']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'DiemKhoiHanh']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;DiemKhoiHanh&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[name=&quot;DiemKhoiHanh&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>324dcd34-d9cd-46d0-8cca-90e3e82a1f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2105f60a-be85-4fbe-9ffa-69d077c9c725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DiemKhoiHanh</value>
+      <webElementGuid>2155fae9-56ac-4291-a0e5-f9883939e301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>03746413-0572-43e2-b176-5cee382f87d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4a5949cff745b64d91ac50a07a2a5154</value>
+      <webElementGuid>afb70bdf-c26e-4ce5-b255-9b98895af4e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'DiemKhoiHanh']</value>
+      <webElementGuid>2dc1fc8d-6672-44e5-81ee-f2a3ae656c00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'DiemKhoiHanh']</value>
+      <webElementGuid>46004aa8-dba4-49bf-a88e-6c009fd39329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'DiemKhoiHanh']</value>
+      <webElementGuid>37808585-4c87-4d90-8434-da327ea089df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

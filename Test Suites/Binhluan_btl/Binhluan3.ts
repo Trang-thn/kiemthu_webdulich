@@ -16,35 +16,44 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Binhluan_btl/Bình luận thất bại_ND quá ngắn</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b7da936b-38ce-475f-8a73-4f168c84b06a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Binhluan_btl/Binhluan3</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b7da936b-38ce-475f-8a73-4f168c84b06a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
          <variableId>1723ae23-f4eb-404d-8696-79dd9a1e57ea</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b7da936b-38ce-475f-8a73-4f168c84b06a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
          <variableId>23c3a57f-c5da-48e6-a851-f1ffb2b8b9c3</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b7da936b-38ce-475f-8a73-4f168c84b06a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Content</value>
          <variableId>d692fa55-8d33-45f7-ba1d-e28a0dc7725c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b7da936b-38ce-475f-8a73-4f168c84b06a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Sosao</value>
          <variableId>7110b4d4-2e91-470c-9206-96857416147b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b7da936b-38ce-475f-8a73-4f168c84b06a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectedMessage</value>
          <variableId>32236207-4de0-42ee-8956-26adcbd721b8</variableId>
       </variableLink>
    </testCaseLink>

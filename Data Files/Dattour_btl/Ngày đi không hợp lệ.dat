@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>SEMICOLON</csvSeperator>
    <dataFileGUID>c1107d69-8e7c-46d2-a5ae-c7953f8cfd68</dataFileGUID>
-   <dataSourceUrl>D:\Duc Anh\Số ngày không hợp lệ.csv</dataSourceUrl>
+   <dataSourceUrl>C:\Users\Admin\Katalon Studio\kiemthu_webdulich\Số ngày không hợp lệ.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

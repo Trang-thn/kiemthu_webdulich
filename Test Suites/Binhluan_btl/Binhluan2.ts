@@ -16,35 +16,44 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Binhluan_btl/Bình luận thất bại_ND trống</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>07d95d18-4162-4fcc-b909-13388f55ddf0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Binhluan_btl/Binhluan2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>07d95d18-4162-4fcc-b909-13388f55ddf0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
          <variableId>66f12d38-b2ff-4ebe-9b92-0534cc4fb705</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>07d95d18-4162-4fcc-b909-13388f55ddf0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
          <variableId>ebf690be-9618-437f-9b73-0ea1c2932bd6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>07d95d18-4162-4fcc-b909-13388f55ddf0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Content</value>
          <variableId>1f2bd3bc-f480-4d4b-b723-c5bd5e645e00</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>07d95d18-4162-4fcc-b909-13388f55ddf0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Sosao</value>
          <variableId>afd8d288-3902-43bc-85b8-402863c33503</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>07d95d18-4162-4fcc-b909-13388f55ddf0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectedMessage</value>
          <variableId>9330f755-99f7-478a-a8b5-e785cc14f694</variableId>
       </variableLink>
    </testCaseLink>

@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>SEMICOLON</csvSeperator>
    <dataFileGUID>9549fdf1-df10-48f7-a515-1abe523fe60e</dataFileGUID>
-   <dataSourceUrl>D:\Duc Anh\Thiếu thông tin ngày.csv</dataSourceUrl>
+   <dataSourceUrl>C:\Users\Admin\Katalon Studio\kiemthu_webdulich\Thiếu thông tin ngày.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

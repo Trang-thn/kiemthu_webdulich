@@ -16,35 +16,44 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Binhluan_btl/Bình luận thành công</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>01a36d88-653b-456d-9d5b-8ff56c9d808a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Binhluan_btl/Binhluan1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>01a36d88-653b-456d-9d5b-8ff56c9d808a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
          <variableId>7f1630b5-fba1-426e-9de7-864544a88122</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>01a36d88-653b-456d-9d5b-8ff56c9d808a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
          <variableId>b61fd123-edfb-4a90-a262-cd4a71570c20</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>01a36d88-653b-456d-9d5b-8ff56c9d808a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Content</value>
          <variableId>25932e51-4b86-4a02-b270-867e858cea33</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>01a36d88-653b-456d-9d5b-8ff56c9d808a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Sosao</value>
          <variableId>48494e0c-6385-4904-8b8a-1f09cb23c3db</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>01a36d88-653b-456d-9d5b-8ff56c9d808a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectedMessage</value>
          <variableId>80b09118-bb8b-42f1-b0e5-8599da4aceea</variableId>
       </variableLink>
    </testCaseLink>
